@@ -14,5 +14,4 @@ def check(a, b):
 number1= input("Enter First Number: ")
 number2= input("Enter Second Number: ")
 
-# Function calls
 check(int(number1), int(number2))
