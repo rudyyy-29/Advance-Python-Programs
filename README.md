@@ -1,7 +1,6 @@
 # Advanced Python Programs using OOP's
 # 💫 About Me:
-learning and inspired towards web development<br>working with IEEE design team to master ui/ux
-
+Learning and Inspired towards Web Development<br>Looking Forward to Master UI/UX
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rudraaapatil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-patil-07176037a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrapatil2986@gmail.com) 
